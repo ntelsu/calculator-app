@@ -5,3 +5,6 @@ def subtract(a,b):
 #Multiplication function
   def multiply(a,b):
       return a * b
+#tambahan
+def multiply2(a,b):
+      return a * b
